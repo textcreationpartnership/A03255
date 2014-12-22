@@ -35,23 +35,29 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The vvise-woman of Hogsdon A comedie. As it hath been sundry times acted with great applause. Writte
+
+1. Drammatis Personae.
+
 #####Body#####
 
-1. Actus primus, Scena prima.
+1. THE WISE-VVOMAN OF HOGSDON.
+Actus primus, Scena prima.Enter, as newly come from play, foure young Gentle•••, Master Chartley, Ma
+      * Actus primus, Scena prima.
 
-1. Actus primus, Scena secunda.
-
-1. Actus secundus, Scena prima.
-
-1. Actus tertius, Scena prima.
-
-1. Actus 4ꝰ. Scena prima.
-
-1. Actus 5ꝰ. Scena prima.
+      * Actus primus, Scena secunda.
+Actus secundus, Scena prima.Enter the Wise-woman and her Clyents, a Countrey-man with an Urinall, fo
+      * Actus secundus, Scena prima.
+Actus tertius, Scena prima.Enter the second Luce, which was Iack in womans apparell, and the Wise-wo
+      * Actus tertius, Scena prima.
+Actus 4ꝰ. Scena prima.Enter Sir Harry, M. Harringsfield Gratiana with others.Sir Harry.I am satisfie
+      * Actus 4ꝰ. Scena prima.
+Actus 5ꝰ. Scena prima.Enter old M. Chartly as new come out of the Country To inquire after his Sonne
+      * Actus 5ꝰ. Scena prima.
 
 #####Back#####
-The vvise-woman of Hogsdon A comedie. As it hath been sundry times acted with great applause. Writte
+
+1. TO HIS CHOSEN FRIEND, the learned Author Mr Thomas Heywood.
+
 **Types of content**
 
   * There are 755 **verse** lines!
